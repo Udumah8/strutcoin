@@ -145,7 +145,7 @@ function initializeCTAButtons() {
     
     if (buyButton) {
         buyButton.addEventListener('click', function() {
-            toast.show('Coming Soon!', 'STRUT will be available for purchase soon. Stay tuned!');
+            toast.show('CA', '5P1jUoxxdYyYieWEVko3UaYngwNoZyhCKe1bapFfrge');
         });
     }
     
@@ -289,4 +289,5 @@ window.StrutMaster = {
     initializeAirdropForm,
     initializeSmoothScrolling,
     initializeScrollAnimations
+
 };
